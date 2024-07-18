@@ -1,0 +1,3 @@
+ SQL> CREATE TABLE Employee(EmployeeNo char(4), EmployeeName varchar2(30), 
+EmployeeSalnumber(10,2), EmployeeCity varchar2(30), EmployeeDob date);
+ Table Created
